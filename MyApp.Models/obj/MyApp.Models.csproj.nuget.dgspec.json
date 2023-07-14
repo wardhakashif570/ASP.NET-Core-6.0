@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\Desktop\\MyApp\\MyAppWeb\\MyAppWeb.csproj": {}
+    "C:\\Users\\Hp\\Desktop\\MyApp\\MyApp.Models\\MyApp.Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\Desktop\\MyApp\\MyAppWeb\\MyAppWeb.csproj": {
+    "C:\\Users\\Hp\\Desktop\\MyApp\\MyApp.Models\\MyApp.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\MyApp\\MyAppWeb\\MyAppWeb.csproj",
-        "projectName": "MyAppWeb",
-        "projectPath": "C:\\Users\\Hp\\Desktop\\MyApp\\MyAppWeb\\MyAppWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\Desktop\\MyApp\\MyApp.Models\\MyApp.Models.csproj",
+        "projectName": "MyApp.Models",
+        "projectPath": "C:\\Users\\Hp\\Desktop\\MyApp\\MyApp.Models\\MyApp.Models.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\Desktop\\MyApp\\MyAppWeb\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\Desktop\\MyApp\\MyApp.Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,26 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore": {
-              "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[6.0.1, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[6.0.14, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -71,9 +51,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

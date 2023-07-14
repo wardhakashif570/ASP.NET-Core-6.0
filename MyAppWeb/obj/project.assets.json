@@ -10747,11 +10747,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\.Net\\.Net-Basics\\MyApp\\MyAppWeb\\MyAppWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Hp\\Desktop\\MyApp\\MyAppWeb\\MyAppWeb.csproj",
       "projectName": "MyAppWeb",
-      "projectPath": "C:\\Users\\Hp\\source\\repos\\.Net\\.Net-Basics\\MyApp\\MyAppWeb\\MyAppWeb.csproj",
+      "projectPath": "C:\\Users\\Hp\\Desktop\\MyApp\\MyAppWeb\\MyAppWeb.csproj",
       "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Hp\\source\\repos\\.Net\\.Net-Basics\\MyApp\\MyAppWeb\\obj\\",
+      "outputPath": "C:\\Users\\Hp\\Desktop\\MyApp\\MyAppWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

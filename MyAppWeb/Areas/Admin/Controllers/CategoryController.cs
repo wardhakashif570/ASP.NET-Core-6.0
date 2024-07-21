@@ -2,8 +2,10 @@
 using MyApp.DataAccessLayer;
 using MyApp.DataAccessLayer.Infrastructure.IRepository;
 using MyApp.Models;
-namespace MyAppWeb.Controllers
+
+namespace MyAppWeb.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class CategoryController : Controller
     {
         private IUnitOfWork _unitofWork;
@@ -32,7 +34,7 @@ namespace MyAppWeb.Controllers
                 _unitofWork.Category.Add(category);
                 _unitofWork.Save();
                 TempData["success"] = "Category Created Done!";
-                return (RedirectToAction("Index"));
+                return RedirectToAction("Index");
             }
             return View(category);
         }
@@ -61,7 +63,7 @@ namespace MyAppWeb.Controllers
                 _unitofWork.Category.Update(category);
                 _unitofWork.Save();
                 TempData["success"] = "Category Updated Done!";
-                return (RedirectToAction("Index"));
+                return RedirectToAction("Index");
             }
             return RedirectToAction("Index");
         }

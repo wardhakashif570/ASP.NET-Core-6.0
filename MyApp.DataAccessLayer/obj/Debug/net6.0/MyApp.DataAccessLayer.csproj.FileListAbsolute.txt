@@ -13,3 +13,5 @@ C:\Users\Hp\Desktop\MyApp\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAcces
 C:\Users\Hp\Desktop\MyApp\MyApp.DataAccessLayer\obj\Debug\net6.0\refint\MyApp.DataAccessLayer.dll
 C:\Users\Hp\Desktop\MyApp\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.pdb
 C:\Users\Hp\Desktop\MyApp\MyApp.DataAccessLayer\obj\Debug\net6.0\ref\MyApp.DataAccessLayer.dll
+C:\Users\Hp\Desktop\MyApp\MyApp.DataAccessLayer\bin\Debug\net6.0\MyApp.DataAccessLayer.runtimeconfig.json
+C:\Users\Hp\Desktop\MyApp\MyApp.DataAccessLayer\obj\Debug\net6.0\MyApp.DataAccessLayer.genruntimeconfig.cache

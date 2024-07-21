@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace MyAppWeb.Migrations
+namespace MyApp.DataAccessLayer.Migrations
 {
     [DbContext(typeof(MyApp.DataAccessLayer.ApplicationDbContext))]
     [Migration("20230625121415_AddCategoryToDatabase")]
